@@ -5,14 +5,17 @@ body {
      text-decoration:burlywood;
      flex-wrap: wrap;
      font-size:15px;
-     background-size:300px 300px; 
-     background-image:url("images/download (8).jpeg")
-      height :300px;
-      width:300px;
+     background-size:300px 300px;
+     
+ }
+ #image{
+     width:1000px;
+     height:400px;
  }
     img {
         width:350px;
         height:300px;
+
     }
 
 .header {
