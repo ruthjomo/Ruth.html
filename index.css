@@ -49,3 +49,7 @@ h2 {
         text-indent: 0vmax;
 
     }
+    li {
+        float:center;
+        color:bold;
+    }
