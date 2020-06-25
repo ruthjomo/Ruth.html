@@ -56,3 +56,6 @@ h2 {
     h5 {
         font-size:20px;
     }
+    li {
+        float:center;
+    }
