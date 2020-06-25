@@ -59,3 +59,37 @@ h2 {
     li {
         float:center;
     }
+    
+      
+    .container {
+        border: 2px solid #ccc;
+        background-color:grey;
+        border-radius: 0px;
+        padding: 0px;
+        margin: 0px 0;
+        text-align:left;
+      }
+    
+      .container::after {
+        content: "";
+        clear: both;
+        display: table;
+        width:1px;
+        height:1px;
+      }
+      .container img {
+        float: left;
+        margin-right: 20px;
+        border-radius: 50%;
+        
+      }
+    
+      #Avatar {
+          width:100px;
+          height:100px;
+          
+      }
+        
+          
+        }
+      }
